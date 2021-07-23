@@ -1,7 +1,7 @@
 '''
-=============SON OF GENISYS=====================
+============= ғᴜʀɪᴏᴜs =====================
 Astra members adding script
-Coded by a dumbass kid- github.com/Cryptonian007
+Coded by a kid- github.com/Harsh-78
 Apologies if anything in the code is dumb :)
 Copy with credits
 ************************************************
@@ -54,8 +54,8 @@ def banner():
     ]
     for char in b:
         print(f'{random.choice(colors)}{char}{rs}')
-    #print('=============SON OF GENISYS==============')
-    print(f'{lg}   Version: {w}1.2{lg} | Author: {w}Cryptonian{rs}\n')
+    #print('=============  ғᴜʀɪᴏᴜs ==============')
+    print(f'{lg}   Version: {w}1.2{lg} | Author: {w}ʜᴀʀsʜ & ᴀʟᴄᴏʜᴏʟɪᴄ{rs}\n')
 
 
 # function to clear screen
